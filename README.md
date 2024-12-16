@@ -49,7 +49,7 @@ Automate the following tasks on the Indee Video Platform:
 1. Clone this repository.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/iniyavans/indee-Assignment.git
 ```
 2. Install the required Python libraries:
 
